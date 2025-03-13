@@ -9,5 +9,6 @@ const obj = {
     id: 1
 }
 
+
 const message = await edit(obj)
 console.log(message);
